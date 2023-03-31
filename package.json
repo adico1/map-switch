@@ -1,0 +1,9 @@
+{
+  "name": "map-switch",
+  "version": "1.0.0",
+  "description": "A map-based replacement for switch statements in JavaScript",
+  "main": "index.js",
+  "keywords": ["map", "switch", "javascript"],
+  "author": "Adico",
+  "license": "MIT"
+}
